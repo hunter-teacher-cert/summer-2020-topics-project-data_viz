@@ -6,5 +6,5 @@
 
 
 # Instructions
-Add the text content of your lesson/unit plan to this file. Add any extra files and source code to this repository. Make sure to provide any instructions needed to run the code.
+GROUP PLANNING DOCUMENT: https://docs.google.com/document/d/13ibuxbmzT9m70gUSFh-i93EVDUPnK5P89PYTmkEuznc/edit
 
