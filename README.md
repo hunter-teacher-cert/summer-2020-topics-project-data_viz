@@ -14,4 +14,4 @@ Lesson 1 - Foundations of Data Visualization Using Excel Doc of [Billboard Top 1
 
 Lesson 2 - Data Analysis with Python
 
-Lesson 3 -
+Lesson 3 - Data Visualization with Python
