@@ -1,4 +1,4 @@
-# Interactive Data Visualization
+# Interactive Data Visualization With Python
 
 # Team Members
 1. Angelo Comeaux
