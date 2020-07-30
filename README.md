@@ -6,7 +6,7 @@
 
 
 # Instructions
-[Unit Plan] (Hunter Cert Data Viz Project .docx)
+[Unit Plan](Hunter Cert Data Viz Project .docx)
 
 A Three-Lesson Unit on Data Visualization
 
